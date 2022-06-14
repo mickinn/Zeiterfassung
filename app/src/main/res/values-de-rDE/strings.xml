@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zeiterfassung</string>
+    <string name="label_start_work">Start</string>
+    <string name="label_start_break">Pause</string>
+    <string name="label_continue_work">Weiter</string>
+    <string name="label_stop_work">Ende</string>
+</resources>
